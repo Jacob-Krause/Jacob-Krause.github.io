@@ -37,10 +37,10 @@ function showSlides(n) {
     dots[slideIndex - 1].className += " active"; // This adds the active styling to the dot associated with the image
 }
 
-function openForm() {
+function openForm_Res() {
     document.getElementById("myForm").style.display = "block";
 }
 
-function closeForm() {
+function closeForm_Res() {
     document.getElementById("myForm").style.display = "none";
 }
