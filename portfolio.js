@@ -38,9 +38,9 @@ function showSlides(n) {
 }
 
 function openForm_Res() {
-    document.getElementById("myForm").style.display = "block";
+    document.getElementById("myForm_Res").style.display = "block";
 }
 
 function closeForm_Res() {
-    document.getElementById("myForm").style.display = "none";
+    document.getElementById("myForm_Res").style.display = "none";
 }
