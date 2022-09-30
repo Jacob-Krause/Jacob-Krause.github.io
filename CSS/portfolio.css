@@ -22,7 +22,7 @@ h1:hover {
 
 /* Styling for portfolio title text */
 .white-text {
-    color: #8400ff; /* This is used to change the color of the portfolio title text */
+    color: #FFFFFF; /* This is used to change the color of the portfolio title text */
 }
 
 /* Paragraph elements */
@@ -176,7 +176,7 @@ footer {
 /* Texts over the video */
 .Video_Text {
     background: rgb(0, 0, 0); /* This provides a semi-transparent background for the text to sit over */
-    color: #8400ff; /* Makes the font color white */
+    color: #FFFFFF; /* Makes the font color white */
     width: 100%; /* Ensures the video-text container fills the width of the video */
     padding: 20px; /* This adds padding around the video-text container so that the background goes slightly beyond the text */
     position: relative; /* This sets the text relative to its normal positioning, allowing us to use the animation below */
