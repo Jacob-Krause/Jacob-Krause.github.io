@@ -13,6 +13,20 @@ h1 {
     color: #FFFFFF; 
 }
 
+h2 {
+    text-transform: uppercase; /* Capitalizing all h1 headings */
+    font-family: Sylfaen; /* Sets the font family of all h1 headings */
+    text-align: center; /* Centering all h1 elements */
+    margin-top: 3%; /* Adds a small margin above h1 elements */
+    color: black;
+}
+
+h2:hover{
+    filter:grayscale(5%);
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+
 /* Heading 1 element hover effect */
 h1:hover {
     filter: grayscale(5%); /* Adds a slightly gray filter to the h1 headings when hovered over */
